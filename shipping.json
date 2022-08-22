@@ -2,7 +2,8 @@
    "rates":[
       { "country": "IN", "s_c": "500","pr_from":"100000","pr_TO":"200000", "weight":"1" },
       { "country": "AF", "s_c": "700","pr_from":"200000","pr_TO":"300000", "weight":"2" },
-      { "country": "AX", "s_c": "800","pr_from":"300000","pr_TO":"400000", "weight":"10" }
+      { "country": "AX", "s_c": "800","pr_from":"300000","pr_TO":"400000", "weight":"10" },
+      { "country": "IN", "s_c": "1500","pr_from":"100000","pr_TO":"200000", "weight":"1" },
  ]
     
 }
