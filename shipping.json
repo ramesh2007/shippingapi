@@ -1,13 +1,13 @@
 {
    "rates":[
-      { "country": "IN", "s_c": "500","pr_from":"33","pr_TO":"33", "weight":"3" },
-      { "country": "AF", "s_c": "700","pr_from":"200000","pr_TO":"300000", "weight":"8" },
-      { "country": "US", "s_c": "800","pr_from":"300000","pr_TO":"400000", "weight":"8" },
+      { "country": "IN", "s_c": "500","pr_from":"1000","pr_TO":"10000", "weight":"3" },
+      { "country": "AF", "s_c": "700","pr_from":"5000","pr_TO":"10000", "weight":"8" },
+      { "country": "US", "s_c": "800","pr_from":"1000","pr_TO":"5000", "weight":"8" },
+      { "country": "IN", "s_c": "1500","pr_from":"7000","pr_TO":"8000", "weight":"8" },
       { "country": "IN", "s_c": "1500","pr_from":"88","pr_TO":"88", "weight":"8" },
-      { "country": "IN", "s_c": "1500","pr_from":"88","pr_TO":"88", "weight":"8" },
-      { "country": "BH", "s_c": "2500","pr_from":"88","pr_TO":"88", "weight":"8" },
-      { "country": "QA", "s_c": "3500","pr_from":"88","pr_TO":"88", "weight":"8" },
-      { "country": "AE", "s_c": "4500","pr_from":"88","pr_TO":"88", "weight":"8" }
+      { "country": "BH", "s_c": "2500","pr_from":"8000","pr_TO":"9000", "weight":"8" },
+      { "country": "QA", "s_c": "3500","pr_from":"15000","pr_TO":"20000", "weight":"8" },
+      { "country": "AE", "s_c": "4500","pr_from":"3000","pr_TO":"6000", "weight":"8" }
  ]
     
 }
