@@ -1,14 +1,14 @@
 {
    "rates":[
-      { "country": "IN", "s_c": "500","pr_from":"1000","pr_TO":"10000", "weight":"400" },
-      { "country": "AF", "s_c": "700","pr_from":"5000","pr_TO":"1000000", "weight":"8" },
-      { "country": "US", "s_c": "800","pr_from":"1000","pr_TO":"500000", "weight":"8" },
-      { "country": "US", "s_c": "1800","pr_from":"5000","pr_TO":"1000000", "weight":"8" },
-      { "country": "IN", "s_c": "1500","pr_from":"7000","pr_TO":"8000", "weight":"18" },
-      { "country": "IN", "s_c": "2500","pr_from":"88","pr_TO":"88", "weight":"8" },
-      { "country": "BH", "s_c": "2500","pr_from":"8000","pr_TO":"900000", "weight":"8" },
-      { "country": "QA", "s_c": "3500","pr_from":"15000","pr_TO":"2000000", "weight":"8" },
-      { "country": "AE", "s_c": "4500","pr_from":"3000","pr_TO":"600000", "weight":"8" }
+      { "country": "IN", "s_c": "500","pr_from":"1000","pr_TO":"10000","weight_from":"30", "weight_to":"60" },
+      { "country": "AF", "s_c": "700","pr_from":"5000","pr_TO":"1000000","weight_from":"10", "weight_to":"60" },
+      { "country": "US", "s_c": "800","pr_from":"1000","pr_TO":"500000", "weight_from":"10", "weight_to":"60" },
+      { "country": "US", "s_c": "1800","pr_from":"5000","pr_TO":"1000000", "weight_from":"10", "weight_to":"60" },
+      { "country": "IN", "s_c": "1500","pr_from":"7000","pr_TO":"8000", "weight_from":"1", "weight_to":"29"},
+      { "country": "IN", "s_c": "2500","pr_from":"88","pr_TO":"88", "weight_from":"61", "weight_to":"100" },
+      { "country": "BH", "s_c": "2500","pr_from":"8000","pr_TO":"900000", "weight_from":"61", "weight_to":"100" },
+      { "country": "QA", "s_c": "3500","pr_from":"15000","pr_TO":"2000000","weight_from":"61", "weight_to":"100" },
+      { "country": "AE", "s_c": "4500","pr_from":"3000","pr_TO":"600000", "weight_from":"61", "weight_to":"100" }
  ]
     
 }
